@@ -14,3 +14,12 @@
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
 .prettierignore
+
+
+recipe-page-main/assets
+recipe-page-main/design
+recipe-page-main/preview.jpg
+recipe-page-main/README-template.md
+recipe-page-main/style-guide.md
+
+

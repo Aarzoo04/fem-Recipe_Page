@@ -1,42 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz@0,14..32;1,14..32&family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz@0,14..32;1,14..32&family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+  
+
 *{
-    margin: 0;
-    /* padding: 0; */
+    margin: 5;
 }
 body{
+   
     background-color: hsl(30, 54%, 90%);
-    margin: auto;
+    
+
 }
 
 main{
     max-width: 720px;
-    margin: auto;
+    margin: 12vh auto;
     background-color: hsl(0, 0%, 100%);
-    padding: 17px;
-    border-radius: 10px;
+    padding: 40px;
+    border-radius: 20px;
     justify-content: center;
     
     
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: 400,600,700;
+    font-style: normal;
 }  
+.text {
+    color:hsl(30, 10%, 34%);
+}
+
+.text h1{
+    color: hsl(24, 5%, 18%);
+    font-family: "Young Serif", serif;
+   
+}
+
+.text b{
+    color:hsl(30, 10%, 34%);
+}
 
 main img{
     display: block;
     height: auto;
-    max-width: 100%;    
+    max-width: 100%;
+    border-radius: 15px;    
 }
 
 .container{
-    max-width: 680px;
-    margin: auto;
-    padding: 20px;
+    max-width: 100%;
+    margin-top: 15;
+    padding: 17px;
     background-color: hsl(330, 100%, 98%);
-    border-radius: 15px;
+    border-radius: 20px;
 }
-
+.container li{
+    padding-left: 10px;
+}
 .container h3{
     color: hsl(332, 51%, 32%);
 }
 
-.text h1,h2{
+
+.text h2{
     color: hsl(14, 45%, 36%);
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
+li{
+    padding: 5px;
+
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+td{
+    border-bottom: 2px solid hsl(30, 18%, 87%);
+    padding: 10px;
+}
+
+.value{
+    color: hsl(14, 45%, 36%);
+    font-weight: bolder;
+}
+
+#Ingredients ul{
+    list-style-type:disc;
+    padding-inline-start: 23px;
+    
+}
+
+#Ingredients li{
+    padding-left: 12px;
+}
+
+#Instructions ol{
+    padding-inline-start: 23px;
+}
+
+#Instructions li{
+    padding-inline-start: 13px;
+}
+
+#Instructions ol li::marker{
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+
+#Nutrition td{
+    padding-left: 30px;
+}
+
+hr{
+    border: 1px solid hsl(30, 18%, 87%);
+   
+}
