@@ -16,9 +16,9 @@
 .prettierignore
 
 
-/recipe-page-main/style-guide.md
-/recipe-page-main/design
-/recipe-page-main/assets/fonts
-/recipe-page-main/preview.jpg
-/recipe-page-main/README-template.md
-/recipe-page-main/recipe-page-main.zip
+style-guide.md
+design
+assets/fonts
+preview.jpg
+README-template.md
+recipe-page-main.zip

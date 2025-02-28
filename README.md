@@ -56,17 +56,17 @@ I want to continue improving my CSS layout skills, particularly with CSS Grid an
 
 ### Useful resources
 
-[MDN Web Docs - HTML Semantic Elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) - Provided clarity on structuring HTML effectively.
+- [MDN Web Docs - HTML Semantic Elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) - Provided clarity on structuring HTML effectively.
 
-[Google Fonts](https://fonts.google.com/) - Helped me choose the best font pairing for the project.
+- [Google Fonts](https://fonts.google.com/) - Helped me choose the best font pairing for the project.
 
 ## Author
 
-Frontend Mentor - ([Aarzoo Saini](https://www.frontendmentor.io/profile/Aarzoo04))
+- Frontend Mentor - ([Aarzoo Saini](https://www.frontendmentor.io/profile/Aarzoo04))
 
-GitHub - [Aarzoo04](https://github.com/Aarzoo04)
+- GitHub - [Aarzoo04](https://github.com/Aarzoo04)
 
-LinkedIn - (https://www.linkedin.com/in/aarzoo-saini/)
+- LinkedIn - (https://www.linkedin.com/in/aarzoo-saini/)
 
 ## Acknowledgments
 
